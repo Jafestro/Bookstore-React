@@ -1,5 +1,6 @@
-# Getting Started with Create React App
-
+# BookStore React App
+This is a bookstore application built using React and Material-UI, which allows users to add, delete and view books. The application fetches data from Firebase Realtime Database and displays it using the ag-Grid library. The user interface is designed using Material-UI components, and the add and delete functionalities are implemented using fetch API. Users can add a new book by clicking the "Add Book" button, which opens a dialog box containing a form for entering book details. The user can then save the book to the database by clicking the "Save" button. The application also allows users to delete a book by clicking the delete icon next to the book entry.
+##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
